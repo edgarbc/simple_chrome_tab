@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Tab List Printer",
+    "version": "1.0",
+    "description": "Prints the list of tabs into the console",
+    "permissions": [
+        "tabs"
+    ],
+    "commands": {
+        "switchTab": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+S",
+                "mac": "MacCtrl+Shift+S"
+            },
+            "description": "Switches to the next tab"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
