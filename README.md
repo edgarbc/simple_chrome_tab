@@ -4,7 +4,17 @@ Simple extension for chrome to switch between the last visited tab.
 
 This extension is extremely simple, does not extract, store or uses any user data.
 
-Author: [Edgar Bermudez](http://www.edgarbermudez.org)
+Author: [Edgar Bermudez]
+
+## Contributing
+If you want to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+Things you can help with:
+- Adding a better icon
+- Saving the tabs to disk and restoring them in future sessions
+- Adding a shortcut to switch to next and previous tab
+- Adding a shortcut to switch to a specific tab
+- Adding a menu to change the shortcuts
 
 
 
