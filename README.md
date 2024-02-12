@@ -4,6 +4,12 @@ Simple extension for chrome to switch between the last visited tab.
 
 This extension is extremely simple, does not extract, store or uses any user data.
 
+Author: [Edgar Bermudez](http://www.edgarbermudez.org)
+
+
+
+## Usage
+
 ### Shortcuts
 ```
 Ctrl + Shift + S - Switch to the previously active tab
